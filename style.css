@@ -1,0 +1,10 @@
+/**MOBIEL**/
+.mijntekst h1{
+    font-size:16px;
+}
+
+@media (min-width: 992px) {
+    .mijntekst h1{
+        font-size:45px;
+    }
+}
